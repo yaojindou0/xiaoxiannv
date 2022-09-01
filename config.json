@@ -1,20 +1,8 @@
 {
     "data": [
         {
-            "bz": "骂了小仙女一句",
-            "changevalue": -1,
-            "time": "2022-08-18",
-            "value": 99
-        },
-        {
-            "bz": "骂了小仙女两句",
-            "changevalue": -2,
-            "time": "2022-08-19",
-            "value": 97
-        },
-        {
             "bz": "被小仙女骂了一句",
-            "changevalue": 1,
+            "changevalue": -2,
             "time": "2022-08-20",
             "value": 98
         },
